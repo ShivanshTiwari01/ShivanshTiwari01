@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivansh Tiwari</h1>
 <h3 align="center">Software Engineer - Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **MERN Stack and Python Django/Flask**
-
 - 📫 How to reach me **shivanshtiwari2014@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
