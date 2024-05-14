@@ -2,6 +2,8 @@
 <h3 align="center">Software Engineer - Full Stack Developer</h3>
 
 - 📫 How to reach me **shivanshtiwari2014@gmail.com**
+- 👨‍💻 Want to know more about me [Coming Soon](My Portfolio)
+- 💬 Ask me about **React, Node and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
