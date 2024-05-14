@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **shivanshtiwari2014@gmail.com**
 - 💬 Ask me about **React, Node and Python**
-- 👨‍💻 Want to know more about me, My Portfolio Website - **Coming Soon**
+- 👨‍💻 My Portfolio Website - **Coming Soon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
