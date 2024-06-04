@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivansh Tiwari</h1>
 <h3 align="center">Software Engineer - Full Stack Developer</h3>
 
-- 💬 Ask me about **C++, Node.js and React**
 - 📫 How to reach me - **shivanshtiwari2014@gmail.com**
 - 👨‍💻 All of my details are available at - **Coming Soon**
 
