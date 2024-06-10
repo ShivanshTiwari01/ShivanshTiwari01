@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivansh Tiwari</h1>
-<h4 align="left">Passionate Developer who is turning caffeine into code and dreams into reality. Specializing in building scalable full-stack applications.</h4>
+<h3 align="left">Passionate Developer who is turning caffeine into code and dreams into reality. Specializing in building scalable full-stack applications.</h3>
 
 
 <h3 align="left">Languages and Tools I Use:</h3>
