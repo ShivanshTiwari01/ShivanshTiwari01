@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivansh Tiwari</h1>
-<h3 align="left">💡 Full Stack Architect | Passionate developer turning caffeine into code and dreams into reality | Proficient in JavaScript, Python, and the architecture of innovation | Building bridges between ideas and execution | Let's construct the future, one line of code at a time! 🏗️💻 #CodeArchitect #InnovationEngineer</h3>
+<h3 align="left">💡 Full Stack Architect | Passionate developer turning caffeine into code and dreams into reality | Building bridges between ideas and execution | Let's construct the future, one line of code at a time! 🏗️💻 #CodeArchitect #InnovationEngineer</h3>
 
 
 <div align="left">
