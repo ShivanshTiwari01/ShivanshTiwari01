@@ -4,6 +4,14 @@
 <p align="left">Turning caffeine into code and dreams into reality. I specialize in transforming visionary ideas into functional, user-friendly applications while collaborating with cross-functional teams to deliver high-quality products. Whether optimizing performance, debugging intricate issues, or architecting new features, I approach every challenge with a detail-oriented mindset and creative flair.</p>
 <p align="left">Building bridges between ideas and execution | Let's construct the future, one line of code at a time! 🏗️💻</p>
 
+<p align="left">⚡ Fun fact: When I'm not working, you can find me enjoying quality time with animals and exploring nature.</p>
+
+<h3 align="left">🔗 Connect with Me</h3>
+<ul>
+    <li>✉️ Email: <strong><a href="mailto:shivanshtiwari2014@gmail.com">shivanshtiwari2014@gmail.com</a></strong></li>
+    <li>🔗 LinkedIn: <strong><a href="https://www.linkedin.com/in/shivanshtiwari01/">linkedin.com/in/shivanshtiwari01</a></strong></li>
+    <li>🌐 Portfolio: <strong><a href="https://www.yourportfolio.com">yourportfolio.com</a></strong></li>
+</ul>
 
 ## 🚀 Technologies & Tools
 
@@ -36,4 +44,6 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivanshTiwari01&show_icons=true&hide_title=true&count_private=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshTiwari01&layout=compact&theme=default)
+
+
 
