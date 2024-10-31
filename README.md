@@ -10,7 +10,7 @@
 <ul>
     <li>✉️ Email: <strong><a href="mailto:shivanshtiwari2014@gmail.com">shivanshtiwari2014@gmail.com</a></strong></li>
     <li>🔗 LinkedIn: <strong><a href="https://www.linkedin.com/in/shivanshtiwari01/">linkedin.com/in/shivanshtiwari01</a></strong></li>
-    <li>🌐 Portfolio: <strong><a href="https://www.yourportfolio.com">yourportfolio.com</a></strong></li>
+    <li>🌐 Portfolio: <strong><a href="https://www.yourportfolio.com">My Portfolio</a></strong></li>
 </ul>
 
 ## 🚀 Technologies & Tools
