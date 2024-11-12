@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivansh Tiwari</h1>
 
-<h3 align="left">🛠️💡 Innovative Full Stack Architect & Passionate Developer</h3>
+<h3 align="left">🛠️💡 Full Stack Architect & Passionate Developer</h3>
 <p align="left">Turning caffeine into code and dreams into reality. I specialize in transforming visionary ideas into functional, user-friendly applications while collaborating with cross-functional teams to deliver high-quality products. Whether optimizing performance, debugging intricate issues, or architecting new features, I approach every challenge with a detail-oriented mindset and creative flair.</p>
 <p align="left">Building bridges between ideas and execution | Let's construct the future, one line of code at a time! 🏗️💻</p>
 
