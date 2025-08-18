@@ -12,12 +12,12 @@
 const shivansh = {
   title: "Full Stack Architect & Passionate Developer",
   location: "India 🇮🇳",
-  currentFocus: "Building scalable applications & exploring AI/ML",
+  currentFocus: "Building scalable applications with AI/ML features",
   philosophy: "Code with intention. Scale with precision. Ship with pride.",
   
   workingOn: {
     frontend: ["Next.js", "React", "TypeScript"],
-    backend: ["Node.js", "Express", "PostgreSQL"],
+    backend: ["Node.js", "Express", "Go", "PostgreSQL"],
     cloud: ["AWS", "Docker", "Microservices"],
     currentProject: "AI-powered productivity tools"
   },
