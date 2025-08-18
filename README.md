@@ -14,16 +14,16 @@ const shivansh = {
   location: "India 🇮🇳",
   currentFocus: "Building scalable applications with AI/ML features",
   philosophy: "Code with intention. Scale with precision. Ship with pride.",
-  
   workingOn: {
     frontend: ["Next.js", "React", "TypeScript"],
-    backend: ["Node.js", "Express", "Go", "PostgreSQL"],
-    cloud: ["AWS", "Microservices"],
+    backend: ["Node.js", "Express", "Go", "Gin"],
+    database: ["PostgreSQL", "MongoDB"],
+    cloud: ["AWS", "Docker", "Kubernetes"],
     currentProject: "AI Powered Trading Platform"
   },
-  
   funFact: "When not coding, you'll find me with animals or lost in nature 🌿"
 };
+
 ```
 
 <div align="center">
