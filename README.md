@@ -23,7 +23,6 @@ const shivansh = {
   },
   funFact: "When not coding, you'll find me with animals or lost in nature 🌿"
 };
-
 ```
 
 <div align="center">
@@ -71,17 +70,17 @@ const shivansh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivanshTiwari01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshTiwari01&layout=compact&langs_count=8&theme=tokyonight&v=2"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShivanshTiwari01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShivanshTiwari01&layout=compact&langs_count=5&theme=tokyonight&cache_seconds=1800"/>
 </div>
 
+<!-- Alternative GitHub Stats (backup if above doesn't work) -->
+<!-- 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivanshTiwari01&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivanshTiwari01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshTiwari01&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShivanshTiwari01&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
+-->
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -126,4 +125,5 @@ const shivansh = {
 *Thanks for stopping by! Let's build something amazing together* 🚀
 
 </div>
+
 
