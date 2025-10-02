@@ -69,18 +69,7 @@ const shivansh = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShivanshTiwari01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShivanshTiwari01&layout=compact&langs_count=5&theme=tokyonight&cache_seconds=1800"/>
-</div>
-
-<!-- Alternative GitHub Stats (backup if above doesn't work) -->
-<!-- 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivanshTiwari01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshTiwari01&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
--->
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshTiwari01&layout=compact&theme=radical&langs_count=6)
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -125,3 +114,4 @@ const shivansh = {
 *Thanks for stopping by! Let's build something amazing together* 🚀
 
 </div>
+
