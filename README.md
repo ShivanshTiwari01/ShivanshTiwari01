@@ -67,10 +67,6 @@ const shivansh = {
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-## 📊 GitHub Analytics
-
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshTiwari01&layout=compact&theme=radical&langs_count=6&v=1)
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
