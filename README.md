@@ -69,7 +69,7 @@ const shivansh = {
 
 ## 📊 GitHub Analytics
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshTiwari01&layout=compact&theme=radical&langs_count=6)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanshTiwari01&layout=compact&theme=radical&langs_count=6&v=1)
 
 ## 🤝 Let's Connect & Collaborate
 
