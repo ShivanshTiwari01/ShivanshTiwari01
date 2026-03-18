@@ -6,6 +6,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
+
 ## About Me
 
 ```typescript
@@ -29,6 +30,7 @@ const shivansh = {
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
+
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -38,6 +40,7 @@ const shivansh = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://codewithshivansh.com)
 
 </div>
+
 
 ## 🛠️ Tech Arsenal
 
@@ -78,10 +81,10 @@ const shivansh = {
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 </div>
+
 
 ## 💡 Current Focus Areas
 
@@ -92,6 +95,7 @@ const shivansh = {
 - 📱 **Mobile-First Design**: Creating responsive, accessible user experiences
 
 ---
+
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
@@ -112,6 +116,4 @@ const shivansh = {
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=ShivanshTiwari01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-
-
 
