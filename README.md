@@ -20,7 +20,7 @@ const shivansh = {
     backend: ["Node.js", "Express", "Go", "Gin"],
     database: ["PostgreSQL", "MongoDB"],
     cloud: ["AWS", "Docker", "Kubernetes"],
-    currentProject: "AI Powered Trading Platform"
+    currentFocus: "Building AI Powered Applications"
   },
   funFact: "When not coding, you'll find me with animals or lost in nature 🌿"
 };
