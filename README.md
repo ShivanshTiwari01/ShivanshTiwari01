@@ -17,10 +17,9 @@ const shivansh = {
   philosophy: "Code with intention. Scale with precision. Ship with pride.",
   workingOn: {
     frontend: ["Next.js", "React", "TypeScript"],
-    backend: ["Node.js", "Express", "Go", "Gin"],
+    backend: ["Node.js", "Express", "Go"],
     database: ["PostgreSQL", "MongoDB"],
     cloud: ["AWS", "Docker", "Kubernetes"],
-    currentFocus: "Building AI Powered Applications"
   },
   funFact: "When not coding, you'll find me with animals or lost in nature 🌿"
 };
