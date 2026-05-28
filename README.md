@@ -16,8 +16,8 @@ const shivansh = {
   currentFocus: "Building scalable applications with AI/ML features",
   philosophy: "Code with intention. Scale with precision. Ship with pride.",
   workingOn: {
-    frontend: ["Next.js", "React", "TypeScript"],
-    backend: ["Node.js", "Express", "Go"],
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "NestJS"],
     database: ["PostgreSQL", "MongoDB"],
     devops: ["AWS", "Docker", "Kubernetes"],
   },
