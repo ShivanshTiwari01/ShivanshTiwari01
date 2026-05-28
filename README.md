@@ -21,7 +21,7 @@ const shivansh = {
     database: ["PostgreSQL", "MongoDB"],
     devops: ["AWS", "Docker", "Kubernetes"],
   },
-  funFact: "When not coding, you'll find me with animals or lost in nature 🌿"
+  funFact: "Outside of coding, I love spending time with animals and getting lost in nature 🌿"
 };
 ```
 
