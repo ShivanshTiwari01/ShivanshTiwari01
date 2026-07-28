@@ -11,7 +11,7 @@
 
 ```typescript
 const shivansh = {
-  title: "Full Stack Architect & Passionate Developer",
+  title: "Full Stack Engineer & Passionate Developer",
   location: "India 🇮🇳",
   currentFocus: "Building scalable applications with AI/ML features",
   philosophy: "Code with intention. Scale with precision. Ship with pride.",
